@@ -8,7 +8,9 @@ So, January was a pretty busy month and a lot of things happened in this period.
 
 In the last week of January, I travelled to Bengaluru to attend [Reseach Week With Google](https://sites.google.com/view/researchweek2023/home) which was a pretty good exercise to see all other works different than my domain. I really liked the talk of [Steven Blackburn](https://users.cecs.anu.edu.au/~steveb/) on `Garbage Collector`. Given I had zero experience in the Garbage Collector, it was pretty educational talk and came to know a lot about the current research trends there. Though, it was pretty hard for me to connect with others either because of no overlap of research domain or because of my introvert and shy nature. After travelling to Bengaluru, I have been ill as well. Most probably, it is just viral (sore throat and fever), which cancelled my plans to travel [Pondicherry](https://en.wikipedia.org/wiki/Pondicherry) as well. :( 
 
-<img src="assets/images/research_week.png" alt="check" width=50% height=50%> 
+<div align='center'>
+<img src="/assets/images/research_week.png" style="width=90% ; height=auto"> 
+</div>
 
 Next few months gonna be busy as well, because of so much exciting research threads and deadlines. Let's see how it goes!!!
 
